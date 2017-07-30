@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aspot Client</string>
+    <string name="offers_0">%1$d предложений</string>
+    <string name="offers_1">%1$d предложение</string>
+    <string name="offers_2">%1$d предложения</string>
+
+    <string name="view_holder_tag">VIEW_HOLDER</string>
+    <string name="model_tag">MODEL_TAG</string>
+</resources>
